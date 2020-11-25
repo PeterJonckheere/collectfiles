@@ -1,0 +1,74 @@
+<?xml version =   '1.0' ?>
+<resources>
+
+<set path ="testmap\black_cat"/>
+<atlas>
+ <image id = "black_cat_back-ear" file= "back-ear.png"/>
+ <image id = "black_cat_back-leg-back" file= "back-leg-back.png"/>
+ <image id = "black_cat_back-leg-top" file= "back-leg-top.png"/>
+ <image id = "black_cat_back-thigh-back" file= "back-thigh-back.png"/>
+ <image id = "black_cat_back-thigh-top" file= "back-thigh-top.png"/>
+ <image id = "black_cat_body-sitting" file= "body-sitting.png"/>
+ <image id = "black_cat_body" file= "body.png"/>
+ <image id = "black_cat_front-leg-back" file= "front-leg-back.png"/>
+ <image id = "black_cat_front-leg-top" file= "front-leg-top.png"/>
+ <image id = "black_cat_front-thigh-back" file= "front-thigh-back.png"/>
+ <image id = "black_cat_front-thigh-top" file= "front-thigh-top.png"/>
+ <image id = "black_cat_gleft-open-open" file= "gleft-open-open.png"/>
+ <image id = "black_cat_head" file= "head.png"/>
+ <image id = "black_cat_jaw" file= "jaw.png"/>
+ <image id = "black_cat_left-eye-closed" file= "left-eye-closed.png"/>
+ <image id = "black_cat_nose" file= "nose.png"/>
+ <image id = "black_cat_pupil" file= "pupil.png"/>
+ <image id = "black_cat_right-eye-closed" file= "right-eye-closed.png"/>
+ <image id = "black_cat_right-eye-open" file= "right-eye-open.png"/>
+ <image id = "black_cat_tail-sitting" file= "tail-sitting.png"/>
+ <image id = "black_cat_tail" file= "tail.png"/>
+ <image id = "black_cat_top-ear" file= "top-ear.png"/>
+</atlas>
+<set path ="testmap\grey_cat"/>
+<atlas>
+ <image id = "grey_cat_back-ear" file= "back-ear.png"/>
+ <image id = "grey_cat_back-leg-back" file= "back-leg-back.png"/>
+ <image id = "grey_cat_back-leg-top" file= "back-leg-top.png"/>
+ <image id = "grey_cat_back-thigh-back" file= "back-thigh-back.png"/>
+ <image id = "grey_cat_back-thigh-top" file= "back-thigh-top.png"/>
+ <image id = "grey_cat_body-sitting" file= "body-sitting.png"/>
+ <image id = "grey_cat_body" file= "body.png"/>
+ <image id = "grey_cat_front-leg-back" file= "front-leg-back.png"/>
+ <image id = "grey_cat_front-leg-top" file= "front-leg-top.png"/>
+ <image id = "grey_cat_front-thigh-back" file= "front-thigh-back.png"/>
+ <image id = "grey_cat_front-thigh-top" file= "front-thigh-top.png"/>
+ <image id = "grey_cat_gleft-open-open" file= "gleft-open-open.png"/>
+ <image id = "grey_cat_head" file= "head.png"/>
+ <image id = "grey_cat_jaw" file= "jaw.png"/>
+ <image id = "grey_cat_left-eye-closed" file= "left-eye-closed.png"/>
+ <image id = "grey_cat_nose" file= "nose.png"/>
+ <image id = "grey_cat_pupil" file= "pupil.png"/>
+ <image id = "grey_cat_right-eye-closed" file= "right-eye-closed.png"/>
+ <image id = "grey_cat_right-eye-open" file= "right-eye-open.png"/>
+ <image id = "grey_cat_tail-sitting" file= "tail-sitting.png"/>
+ <image id = "grey_cat_tail" file= "tail.png"/>
+ <image id = "grey_cat_top-ear" file= "top-ear.png"/>
+</atlas>
+<set path ="testmap\orange_cat"/>
+<atlas>
+ <image id = "orange_cat_back-ear" file= "back-ear.png"/>
+ <image id = "orange_cat_back-leg-back" file= "back-leg-back.png"/>
+ <image id = "orange_cat_back-leg-top" file= "back-leg-top.png"/>
+ <image id = "orange_cat_back-thigh-back" file= "back-thigh-back.png"/>
+ <image id = "orange_cat_back-thigh-top" file= "back-thigh-top.png"/>
+ <image id = "orange_cat_body-sitting" file= "body-sitting.png"/>
+ <image id = "orange_cat_body" file= "body.png"/>
+ <image id = "orange_cat_front-leg-back" file= "front-leg-back.png"/>
+ <image id = "orange_cat_front-leg-top" file= "front-leg-top.png"/>
+ <image id = "orange_cat_front-thigh-back" file= "front-thigh-back.png"/>
+ <image id = "orange_cat_front-thigh-top" file= "front-thigh-top.png"/>
+ <image id = "orange_cat_gleft-open-open" file= "gleft-open-open.png"/>
+ <image id = "orange_cat_head" file= "head.png"/>
+ <image id = "orange_cat_icon-sitting" file= "icon-sitting.png"/>
+ <image id = "orange_cat_icon" file= "icon.png"/>
+ <image id = "orange_cat_jaw" file= "jaw.png"/>
+ <image id = "orange_cat_left-eye-closed" file= "left-eye-closed.png"/>
+ <image id = "orange_cat_nose" file= "nose.png"/>
+ <image id = "orange_cat_pupil" file= "pupil.png"/>

@@ -1,0 +1,5 @@
+<image id= "Debug_collectfiles.Build.CppClean" file ="collectfiles.Build.CppClean.log"/>
+<image id= "Debug_collectfiles" file ="collectfiles.log"/>
+<image id= "Debug_collectfiles" file ="collectfiles.obj"/>
+<image id= "Debug_vc141" file ="vc141.idb"/>
+<image id= "Debug_vc141" file ="vc141.pdb"/>
