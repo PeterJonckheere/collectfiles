@@ -3,6 +3,7 @@
 
 //testtest
 //testtest2
+//testfromdektop
 #include  <windows.h>
 
 #include <string>
@@ -241,7 +242,7 @@ int main(int argc, char** argv)
 	//std::cout << "<set path =" << '"' << startPath << '"' << "/ >" << '\n';
 	//DisplayDirectoryTree("");
 	std::string folder;
-	if (argc > 1) folder = argv[1]; else folder = "";
+	if (argc > 1) folder = argv[1]; else folder = ".//";
 	BFSDirectoryTravers(folder);
 	std::cout << "</resources>";
 
